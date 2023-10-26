@@ -1,3 +1,4 @@
 farm-haystack
 farm-haystack[weaviate]
+farm-haystack[inference]
 jupyterlab
